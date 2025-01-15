@@ -5,7 +5,7 @@ Gosto muito de criar sites e jogos:)
 
 ## Estatísticas
 ![FantiniTxT's GitHub stats](https://github-readme-stats.vercel.app/api?username=FantiniTxT&show_icons=true&theme=transparent&include_all_commits=true&locale=pt-br)
-![Tecnologias](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent&locale=pt-br)
+![Tecnologias](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&include_all_commits=true&theme=transparent&locale=pt-br)
 
 ## Linguagens e Tecnologias
 <div style="displat: inline-block">
